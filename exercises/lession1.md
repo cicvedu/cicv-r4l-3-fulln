@@ -31,3 +31,6 @@ git clone git@github.com:cicvedu/cicv-r4l-fulln.git
 
 7.2  添加rust-src源代码
 
+8. 编译结果
+
+![alt text](image-8.png)
