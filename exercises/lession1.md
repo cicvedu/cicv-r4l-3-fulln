@@ -34,3 +34,6 @@ git clone git@github.com:cicvedu/cicv-r4l-fulln.git
 8. 编译结果
 
 ![alt text](image-8.png)
+
+9. 编译vmlinux
+![alt text](image-9.png)
